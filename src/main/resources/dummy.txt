@@ -1,0 +1,2 @@
+existente apenas para commitarmos a estrutura
+Após clonar, pode deletar o arquivo
